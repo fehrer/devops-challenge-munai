@@ -1,0 +1,11 @@
+Gostaria de expressar minha sincera gratidão a equipe da Munai pela oportunidade de participar deste projeto desafiador. A experiência foi enriquecedora e me permitiu aprimorar minhas habilidades em Terraform, AWS e DevOps como um todo.
+
+
+
+Este projeto foi desenvolvido com o auxílio das seguintes fontes: 
+**Documentação Oficial**:
+ 
+Terraform: Provedor AWS para Terraform: https://registry.terraform.io/providers/hashicorp/aws/latest/docs
+
+Repositório Curso Terraform:
+https://github.com/fehrer/terraform-resources}
